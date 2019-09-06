@@ -260,4 +260,4 @@ const setVisibleFont = () => {
   // Set Link
   document.querySelector('.font-link').href = fontUrl
 }
-setVisibleFont()  
+setVisibleFont()
